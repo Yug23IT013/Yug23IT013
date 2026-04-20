@@ -5,12 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=Yug23IT013&label=Profile%20views&color=0e75b6&style=flat" alt="Yug23IT013" /> 
 </p>
 
-- 👨‍💻 All of my projects are available on my GitHub profile
-
-- 💬 Ask me about **MERN Stack, ASP.NET Core, C#, Node.js, React**
-
-- 📫 How to reach me **yugbuha001@gmail.com**
-
+- 👨‍💻 All of my projects are available on my GitHub profile  
+- 💬 Ask me about **MERN Stack, ASP.NET Core, C#, Node.js, React**  
+- 📫 How to reach me **yugbuha001@gmail.com**  
 - ⚡ Fun fact **Clean code today saves debugging tomorrow 🚀**
 
 ---
@@ -18,14 +15,15 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" herf="linkdin/in/yugbuha001" alt="linkedin" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
 
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
+
+<p align="left" style="display: flex; flex-wrap: nowrap; gap: 12px; overflow-x: auto;">
 
 <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
@@ -76,16 +74,17 @@
 </a>
 
 </p>
+
 ---
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yug23IT013&show_icons=true&locale=en&layout=compact" alt="Yug23IT013" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yug23IT013&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yug23IT013&show_icons=true&locale=en" alt="Yug23IT013" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yug23IT013&show_icons=true&locale=en" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yug23IT013&" alt="Yug23IT013" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yug23IT013&" />
 </p>
